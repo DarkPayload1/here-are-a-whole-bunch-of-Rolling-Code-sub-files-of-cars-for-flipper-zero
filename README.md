@@ -4,14 +4,26 @@
 
 
     until now is then
-
+    
+    acura
+    buick
+    chevy
+    chrysler
     FIAT
     FORD
-    PSA GROUP
-    KIA HYUNDAI
-    Lexus_and_Toyota
+    genesis
+    gmc
+    GROUPE PSA
+    honda
+    HYUNDAI
+    jeep
+    KIA
+    Lexus_og_Toyota
     Mazda
+    mercedes
+    nissan
     SKODA
+    Skyline
     SUBARU
     SUZUKI
     VOLKSWAGEN AUDI
