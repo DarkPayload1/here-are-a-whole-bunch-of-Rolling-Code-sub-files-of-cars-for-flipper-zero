@@ -1,20 +1,6 @@
 # here-are-a-whole-bunch-of-Rolling-Code-sub-files-of-cars-for-flipper-zero
 
 
-these work on the old firmware as it is available online
-
-FIAT
-FORD
-HYUNDAI
-KIA
-SKODA
-SUBARU
-SUZUKI
-VOLKSWAGEN/AUDI
-
-
-
-
 
 
     until now is then
