@@ -1,6 +1,10 @@
 # here-are-a-whole-bunch-of-Rolling-Code-sub-files-of-cars-for-flipper-zero
 
 
+This Rolling-Code-sub-files is provided for educational and demonstration purposes only. Using this to gain access to property without permission may violate local, state, and federal laws. ...
+
+
+
 
 
     until now is then
