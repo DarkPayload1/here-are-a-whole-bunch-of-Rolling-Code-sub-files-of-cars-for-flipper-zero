@@ -31,5 +31,3 @@ This Rolling-Code-sub-files is provided for educational and demonstration purpos
     SUBARU
     SUZUKI
     VOLKSWAGEN AUDI
-Join my Discord it just opened
-https://discord.gg/rMAanxNP
