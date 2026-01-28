@@ -20,14 +20,21 @@ This Rolling-Code-sub-files is provided for educational and demonstration purpos
     GROUPE PSA
     honda
     HYUNDAI
+    Isuzu_Truck
     jeep
     KIA
+    Lamborghini Huracan
+    LDV_Automotive
+    LEDGLOW-MotorcycleLights
     Lexus_og_Toyota
     Mazda
     mercedes
+    Misc
     nissan
     SKODA
     Skyline
     SUBARU
     SUZUKI
+    Tesla
+    TPMS-Flipper
     VOLKSWAGEN AUDI
